@@ -1,0 +1,23 @@
+.App{
+    min-height: 100vh;
+    height: 100%;
+    width: 100%;
+    display: flex;
+    flex-direction: column;
+}
+
+.Header{
+    height: 5vh;
+    background-color: aquamarine;
+}
+
+.Footer{
+
+    height: 5vh;
+    background-color: aquamarine;
+}
+
+.Context{
+    max-height: 90vh;
+    flex-grow: 1;
+}
